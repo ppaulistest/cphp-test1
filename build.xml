@@ -8,7 +8,7 @@
         </then>
     </if>
 
-	<target>
+	<target name="clean">
 		<delete dir="${dir.output}" />
 	</target>
 
